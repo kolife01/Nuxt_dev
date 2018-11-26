@@ -6,6 +6,7 @@
     <div class="Triangle Triangle--four"/>
     <p>issue2対応</p>
     <p>issue3の対応</p>
+    <p>issue3対応</p>
   </div>
   
   
